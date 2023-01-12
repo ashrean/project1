@@ -1,3 +1,4 @@
+// Location API from Accuweather
 function getAPI() {
     var searchCity = "san Francisco";
     var APIKey = "G7TFrvoMDfSH4fn8av5CZDJviR257GdG";
